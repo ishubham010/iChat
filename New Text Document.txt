@@ -1,5 +1,0 @@
-go live 
- 
-cd nodeServer
-
-nodemon index.js
